@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+scipy
+seaborn
+pytest
+notebook
+plotly
+imbalanced-learn
+catboost
+openai
+pydantic
+datasets==3.6.0
