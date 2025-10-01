@@ -12,3 +12,4 @@ catboost
 openai
 pydantic
 datasets==3.6.0
+imblearn
